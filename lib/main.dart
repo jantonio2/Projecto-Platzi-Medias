@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text("Hola Mundo Feliz"),
         ),
-        body: DescriptionPlaceTrue("Bahamas", 4, descriptionDummy),
+        body: DescriptionPlace("Bahamas", 3.5, descriptionDummy),
       ),
     );
   }
